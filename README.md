@@ -27,7 +27,7 @@ Performed descriptive statistics and analyzed trends across multiple dimensions 
 
 . Sense of community
 
-3 3. Visualizations
+# 3. Visualizations
 
 Created insightful visualizations using:
 
